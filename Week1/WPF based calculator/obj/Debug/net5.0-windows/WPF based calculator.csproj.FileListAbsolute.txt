@@ -1,0 +1,22 @@
+C:\Users\rasmu\source\repos\WPF based calculator\bin\Debug\net5.0-windows\WPF based calculator.exe
+C:\Users\rasmu\source\repos\WPF based calculator\bin\Debug\net5.0-windows\WPF based calculator.deps.json
+C:\Users\rasmu\source\repos\WPF based calculator\bin\Debug\net5.0-windows\WPF based calculator.runtimeconfig.json
+C:\Users\rasmu\source\repos\WPF based calculator\bin\Debug\net5.0-windows\WPF based calculator.runtimeconfig.dev.json
+C:\Users\rasmu\source\repos\WPF based calculator\bin\Debug\net5.0-windows\WPF based calculator.dll
+C:\Users\rasmu\source\repos\WPF based calculator\bin\Debug\net5.0-windows\ref\WPF based calculator.dll
+C:\Users\rasmu\source\repos\WPF based calculator\bin\Debug\net5.0-windows\WPF based calculator.pdb
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.csproj.AssemblyReference.cache
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator_MarkupCompile.cache
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator_MarkupCompile.lref
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.g.resources
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.AssemblyInfoInputs.cache
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.AssemblyInfo.cs
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.dll
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\ref\WPF based calculator.dll
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.pdb
+C:\Users\rasmu\source\repos\WPF based calculator\obj\Debug\net5.0-windows\WPF based calculator.genruntimeconfig.cache

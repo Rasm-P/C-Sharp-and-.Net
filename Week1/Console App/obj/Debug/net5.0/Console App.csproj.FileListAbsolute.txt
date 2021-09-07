@@ -1,0 +1,16 @@
+C:\Users\rasmu\source\repos\Console App\bin\Debug\net5.0\Console App.exe
+C:\Users\rasmu\source\repos\Console App\bin\Debug\net5.0\Console App.deps.json
+C:\Users\rasmu\source\repos\Console App\bin\Debug\net5.0\Console App.runtimeconfig.json
+C:\Users\rasmu\source\repos\Console App\bin\Debug\net5.0\Console App.runtimeconfig.dev.json
+C:\Users\rasmu\source\repos\Console App\bin\Debug\net5.0\Console App.dll
+C:\Users\rasmu\source\repos\Console App\bin\Debug\net5.0\ref\Console App.dll
+C:\Users\rasmu\source\repos\Console App\bin\Debug\net5.0\Console App.pdb
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.csproj.AssemblyReference.cache
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.AssemblyInfoInputs.cache
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.AssemblyInfo.cs
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.dll
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\ref\Console App.dll
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.pdb
+C:\Users\rasmu\source\repos\Console App\obj\Debug\net5.0\Console App.genruntimeconfig.cache
