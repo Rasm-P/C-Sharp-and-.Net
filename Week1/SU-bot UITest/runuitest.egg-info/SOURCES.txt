@@ -1,8 +1,0 @@
-main.py
-setup.py
-runuitest.egg-info/PKG-INFO
-runuitest.egg-info/SOURCES.txt
-runuitest.egg-info/dependency_links.txt
-runuitest.egg-info/entry_points.txt
-runuitest.egg-info/requires.txt
-runuitest.egg-info/top_level.txt
